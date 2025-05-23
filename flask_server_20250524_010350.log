@@ -1,0 +1,11 @@
+[2025-05-24 01:03:54]  * Serving Flask app 'app'
+[2025-05-24 01:03:54]  * Debug mode: on
+[2025-05-24 01:03:54] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+[2025-05-24 01:03:54]  * Running on all addresses (0.0.0.0)
+[2025-05-24 01:03:54]  * Running on http://127.0.0.1:5000
+[2025-05-24 01:03:54]  * Running on http://172.27.63.119:5000
+[2025-05-24 01:03:54] [33mPress CTRL+C to quit[0m
+[2025-05-24 01:03:54]  * Restarting with stat
+[2025-05-24 01:03:57]  * Debugger is active!
+[2025-05-24 01:03:57]  * Debugger PIN: 672-733-006
+[2025-05-24 01:04:55] 172.27.48.1 - - [24/May/2025 01:04:55] "GET / HTTP/1.1" 200 -

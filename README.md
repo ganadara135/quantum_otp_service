@@ -11,6 +11,7 @@
 
 # How to excute
 - python app.py
+- 외부IP 로 접근하려면, ngrok 터널링 서비스 사용. run_ngrok.sh   확인
 
 # Test Vidoe
 - [Video Demo link](https://youtu.be/aEk2rYbvbzY)
