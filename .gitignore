@@ -1,0 +1,20 @@
+# 환경 설정 파일
+.env
+# Python 환경 설정 파일
+.venv
+# Python 캐시 파일
+__pycache__/
+# Python bytecode
+*.pyc
+# Python egg-info
+*.egg-info/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# VS Code 설정 파일
+.vscode/
+# PyCharm 설정 파일
+.idea/
+# Pytest cache
+.cache/             
+# Coverage reports
+.coverage

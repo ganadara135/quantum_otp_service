@@ -1,0 +1,4 @@
+Flask
+spinqit
+python-dotenv
+numpy==1.23.5
